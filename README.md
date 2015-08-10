@@ -1,11 +1,22 @@
-# spectangular-bdd
-Example repository with Spectangular test with cucumber setup (behaviour driven development) 
+# example with spectangular 
 
-# Spectangular
+Spectangular is a library which makes it easier to write e2e tests for angular applications. 
+This example uses the angular-material demo site. 
 
-https://github.com/schubergphilis/spectangular
+Links:
+* [https://github.com/schubergphilis/spectangular](https://github.com/schubergphilis/spectangular)
+* [https://material.angularjs.org/latest/#/](https://material.angularjs.org/latest/#/)
+* [http://angular.github.io/protractor/#/](http://angular.github.io/protractor/#/)
 
-# Cucumber
 
-https://github.com/cucumber/cucumber-js
+# install
+```
+npm install 
+```
+
+# start protractor driver-manager in console
+`npm run-script driver` 
+
+# start test in second console
+`npm test`
 
