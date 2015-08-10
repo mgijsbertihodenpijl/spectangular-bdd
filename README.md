@@ -8,14 +8,14 @@ See:
 * [https://github.com/acuminous/yadda](https://github.com/acuminous/yadda)
 
 
-# install
+## install
 ```
 npm install 
 ```
 
-# start protractor driver-manager in console
+## start protractor driver-manager in console
 `npm run-script driver` 
 
-# start test in second console
+## start test in second console
 `npm test`
 
