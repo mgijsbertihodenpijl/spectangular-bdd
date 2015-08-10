@@ -1,12 +1,11 @@
-# example with spectangular 
+# example with yadda
 
-Spectangular is a library which makes it easier to write e2e tests for angular applications. 
-This example uses the angular-material demo site. 
+With yadda you can write e2e tests as features and scenarios. This example shows how to apply yadda together with 
+spectangular.
 
-Links:
-* [https://github.com/schubergphilis/spectangular](https://github.com/schubergphilis/spectangular)
-* [https://material.angularjs.org/latest/#/](https://material.angularjs.org/latest/#/)
-* [http://angular.github.io/protractor/#/](http://angular.github.io/protractor/#/)
+See:
+* [https://en.wikipedia.org/wiki/Behavior-driven_development](https://en.wikipedia.org/wiki/Behavior-driven_development)
+* [https://github.com/acuminous/yadda](https://github.com/acuminous/yadda)
 
 
 # install
